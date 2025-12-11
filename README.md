@@ -1,6 +1,6 @@
 # Banking-System-in-Java
 
-✅ Object-Oriented Programming (OOP). 
+✅ Object-Oriented Programming (OOP).
 
 ✅ Encapsulation using private variables and getter/setter methods.
 
